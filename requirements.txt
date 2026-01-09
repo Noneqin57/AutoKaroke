@@ -1,0 +1,6 @@
+PyQt6>=6.4.0
+torch>=2.0.0
+torchaudio>=2.0.0
+stable-ts>=2.1.0
+openai-whisper>=20231117
+faster-whisper>=0.10.0
