@@ -1,7 +1,7 @@
 # 🎤 AutoKaraoke (AutoLRC Pro)
 
 **AutoKaraoke** 是一个基于 OpenAI [Whisper](https://github.com/openai/whisper) 的本地化自动歌词制作与打轴工具。它利用强大的 AI 模型自动识别语音、生成 LRC/SRT 字幕，并提供智能的手动校准功能，旨在简化卡拉 OK 歌词（KRC/LRC）的制作流程。
-
+这是一个单脚本，后续已重构至AutoKaraoke Refactored(https://github.com/Noneqin57/AutoKaraoke-Refactored)
 ⚠️ **注**：本项目核心逻辑由 AI 辅助生成，目前处于 v0.1 测试阶段。
 
 ## ✨ 核心功能
@@ -120,3 +120,4 @@ A: 可以，程序会自动切换到 CPU 模式，但速度会慢很多，建议
 本项目遵循 MIT 开源协议。
 
 #
+
